@@ -1,12 +1,13 @@
 body {
-  body {
-  font-family: Arial, sans-serif;
-  margin: 20px;
-  padding: 20px;
-  background-color: #f4f4f4;
+    font-family: 'Segoe UI' /*Tahoma, Geneva, Verdana, sans-serif; /* Replace with your preferred modern font */
+    margin: 20px; /* Adjust the margin as needed */
+    background-color: #f5f5dc; /* Beige background color */
 }
 
-h1 {
-  color: #333;
+h1, h2, h3, h4, h5, h6 {
+    color: #333; /* Set heading text color */
 }
+
+p {
+    line-height: 1.6; /* Set line height for paragraphs */
 }
