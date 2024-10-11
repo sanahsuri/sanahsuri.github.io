@@ -4,5 +4,10 @@ title: Teaching
 permalink: /teaching/
 ---
 
-I have taught Calculus 1 and 3 for 6 semesters and led directed readings in
-'Introduction to B-Series' and 'Mathematical Machine Learning'. 
+Asssisstant to the Instructor (AI):
+* Calculus 3 
+* Calculus 1
+
+Directed Reading:
+* Introduction to B-Series (Spring 2023)
+* Mathematical Machine Learning (Spring 2024)
