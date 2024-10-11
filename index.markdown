@@ -8,4 +8,4 @@ layout: home
 ![Image](images/picture.jpg){: width="250"}
 
 I am a PhD candidate in Mathematics at Washington Univeristy in St. Louis,
-currently in my fifth and final year. My research interests lie in structure preserving numerical integration and machine learning. Visit the research tab to learn more about my projects!
+currently in my fifth and final year. My advisor is Dr. Ari Stern and my research interests lie in structure preserving numerical integration and machine learning. 
