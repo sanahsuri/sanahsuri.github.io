@@ -5,7 +5,11 @@
 layout: home
 ---
 
-![Image](images/picture.jpg){: width="250"}
+# ![Image](images/picture.jpg){: width="250"}
+<div style="text-align: center;">
+  <img src="images//picture.jpg" />
+</div>
+
 
 I am a PhD candidate in Mathematics at Washington Univeristy in St. Louis,
 currently in my fifth and final year. My advisor is Dr. Ari Stern and my research interests lie in structure preserving numerical integration and machine learning. 
