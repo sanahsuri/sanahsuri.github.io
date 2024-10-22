@@ -11,9 +11,11 @@ layout: home
 
 **About me**
 
-I am a PhD candidate in Mathematics at Washington Univeristy in St. Louis, currently in my fifth and final year. My advisor is Dr. Ari Stern and my research interests lie in structure preserving numerical integration and machine learning. <br>
-You can contact me at s [dot] sanah [at] wustl.edu. <br>
+I am a PhD candidate in Mathematics at Washington Univeristy in St. Louis, currently in my fifth and final year. My advisor is Dr. Ari Stern and my research interests lie in structure preserving numerical integration and machine learning. 
+
+You can contact me at s [dot] sanah [at] wustl.edu. 
 [Download my CV](cv.pdf). <br>
+
 
 **Publications**
 
