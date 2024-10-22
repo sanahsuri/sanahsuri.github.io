@@ -11,7 +11,8 @@ layout: home
 
 
 I am a PhD candidate in Mathematics at Washington Univeristy in St. Louis, currently in my fifth and final year. My advisor is Dr. Ari Stern and my research interests lie in structure preserving numerical integration and machine learning. <br>
-You can contact me at s.sanah@wustl.edu and find my CV here. <br>
+You can contact me at s.sanah@wustl.edu. <br>
+[Download my CV](cv.pdf). <br>
 
 **Publications**
 * A. Stern, and S. Suri (2023), Functional Equivariance and Modified Vector Fields, *Journal of Computational Dynamics*,
