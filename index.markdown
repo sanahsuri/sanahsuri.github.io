@@ -5,9 +5,8 @@
 layout: home
 ---
 
-# ![Image](images/picture.jpg){: width="250"}
-<div style="text-align: center;">
-  <img src="images//picture.jpg" />
+<div style="float: left; margin-right: 10px;">
+  <img src="images/picture.jpg" width="150" />
 </div>
 
 
