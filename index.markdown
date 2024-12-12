@@ -29,6 +29,7 @@ M. Chamberland, S. Jing, S. Suri (2020), A Generalization of the One-Seventh Ell
 93:4, 271-275.
 
 **Recent Conference Attendance and Talks**
+
 Missouri S&T Applied Math and Statistics Student Seminar: Invited talk on 'Functional Equivariance and Backward Error Analysis'
 
 SciCADE 2024: Invited talk in minisymposium 'Recent Advances in Structure Preserving Numerical Methods'
