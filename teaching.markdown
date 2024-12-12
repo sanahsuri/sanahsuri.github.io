@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching
+title: Teaching & Service
 permalink: /teaching/
 ---
 
@@ -15,3 +15,9 @@ Asssisstant to the Instructor (AI):
 Directed Reading:
 * Introduction to B-Series (Spring 2023)
 * Mathematical Machine Learning (Spring 2024)
+
+Leadership and Service:
+* Founder and President, SIAM Student Chapter at WashU 
+* Department Representative, Arts and Sciences Graduate Student Association (2023-24)
+* Member, Diversity, Equity and Inclusion Committee (2022-23)
+* Peer Mentor, Department of Mathematics (2022-23)
