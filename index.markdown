@@ -11,7 +11,7 @@ layout: home
 
 **About me**
 
-I am a fifth-year PhD candidate in Mathematics at Washington University in St. Louis, advised by Dr. Ari Stern. My research focuses on structure-preserving numerical integration and machine learning, with applications to climate and ocean systems. Learn more about the applications and impact of my work in this article from the Ampersand magazine: [Math for a Changing World](https://artsci.washu.edu/ampersand/math-changing-world).
+I am a fifth-year PhD candidate in Mathematics at Washington University in St. Louis, advised by Dr. Ari Stern. My research focuses on structure-preserving numerical integration and machine learning, with applications to climate and ocean systems. Learn more about the applications and impact of my work in this article from the Ampersand magazine: [Math for a Changing World](https://artsci.washu.edu/ampersand/math-changing-world). <br>
 You can contact me at [s.sanah@wustl.edu](mailto:s.sanah@wustl.edu) <br>
 [Download my CV](cv.pdf). <br><br><br>
 
