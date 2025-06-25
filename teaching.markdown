@@ -19,5 +19,4 @@ Directed Reading:
 Leadership and Service:
 * Founder and President, SIAM Student Chapter at WashU 
 * Department Representative, Arts and Sciences Graduate Student Association (2023-24)
-* Member, Diversity, Equity and Inclusion Committee (2022-23)
 * Peer Mentor, Department of Mathematics (2022-23)
