@@ -11,13 +11,14 @@ layout: home
 
 **About me**
 
-I am a fifth-year PhD candidate in Mathematics at Washington University in St. Louis, advised by Dr. Ari Stern. My research focuses on structure-preserving numerical integration and machine learning, with applications to climate and ocean systems. Learn more about the applications and impact of my work in this article from the Ampersand magazine: [Math for a Changing World](https://artsci.washu.edu/ampersand/math-changing-world). <br>
+I am a Postdoctoral Scholar in the [Computational Climate and Ocean Group](https://compclimate.github.io/ccog.github.io/) at UC Davis, working with [Dr. Maike Sonnewald](https://msonnewald.com). Before this, I graduated in 2025 with a Ph.D. in Mathematics from Washington University in St. Louis, advised by [Dr. Ari Stern](https://www.math.wustl.edu/~astern/). My doctoral work  focused on structure-preserving numerical integration and machine learning, informing my current research in interpretable AI for ocean dynamics. Learn more about the applications and impact of my work in this article from the Ampersand magazine: [Math for a Changing World](https://artsci.washu.edu/ampersand/math-changing-world). <br>
 You can contact me at [s.sanah@wustl.edu](mailto:s.sanah@wustl.edu) <br>
 [Download my CV](cv.pdf). <br><br><br>
 
 
 
 **Publications**
+S. Suri and M. Sonnwald (2026), Trusting Machine Learning with Physics: A Fidelity Verification Framework for Neural Networks, *In Review*. 
 
 A. Stern, and S. Suri (2023), Functional Equivariance and Modified Vector Fields, *Journal of Computational Dynamics*,
 11 (4), 409-426.
@@ -29,6 +30,9 @@ M. Chamberland, S. Jing, S. Suri (2020), A Generalization of the One-Seventh Ell
 93:4, 271-275.
 
 **Recent Conference Attendance and Talks**
+Institute for Pure and Applied Mathematics (IPAM) at UCLA: Poster on 'Trusting Machine Learning with Physics' for Mathematics and Machine Learning for Earth System Simulation
+
+ICERM Hot Topics Workshop: From Modeling to Learning with HPC
 
 Missouri S&T Applied Math and Statistics Student Seminar: Invited talk on 'Functional Equivariance and Backward Error Analysis'
 
