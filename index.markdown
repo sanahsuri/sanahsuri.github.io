@@ -44,7 +44,7 @@ M. Chamberland, S. Jing, S. Suri (2020), *A Generalization of the One-Seventh El
 ## News
 
 - **2026:** Poster presentation on *Trusting Machine Learning with Physics* at Institute for Pure and Applied Mathematics (IPAM) in UCLA 
-- **2026:** Submitted work on machine learning fidelity and interpretability in physical systems
+- **2025:** Submitted work on fidelity verification of complex systems for neural networks 
 - **2025**: Participated in ICERM Hot Topics Workshop on Modeling and Learning with HPC  
 - **2025:** Started Postdoctoral position at UC Davis in Computational Climate and Ocean Group
 - **2025:** Graduated with Ph.D. in Mathematics from Washington University in St. Louis
