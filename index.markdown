@@ -1,44 +1,59 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
 
-<div style="float: left; margin-right: 10px;">
-  <img src="images/picture.jpg" width="250" />
+<div style="float: left; margin-right: 15px;">
+  <img src="images/picture.jpg" width="250" style="border-radius: 8px;" />
 </div>
 
-**About me**
+## About
 
-I am a Postdoctoral Scholar in the [Computational Climate and Ocean Group](https://compclimate.github.io/ccog.github.io/) at UC Davis, working with [Dr. Maike Sonnewald](https://msonnewald.com). Before this, I graduated in 2025 with a Ph.D. in Mathematics from Washington University in St. Louis, advised by [Dr. Ari Stern](https://www.math.wustl.edu/~astern/). My doctoral work  focused on structure-preserving numerical integration and machine learning, informing my current research in interpretable AI for ocean dynamics. Learn more about the applications and impact of my work in this article from the Ampersand magazine: [Math for a Changing World](https://artsci.washu.edu/ampersand/math-changing-world). <br>
-You can contact me at [s.sanah@wustl.edu](mailto:s.sanah@wustl.edu) <br>
-[Download my CV](cv.pdf). <br><br><br>
+I am a Postdoctoral Scholar in the [Computational Climate and Ocean Group](https://compclimate.github.io/ccog.github.io/) at UC Davis, working with [Dr. Maike Sonnewald](https://msonnewald.com). My research focuses on developing interpretable and trustworthy machine learning methods to understand and emulate ocean and climate dynamics across scales.
 
+I received my Ph.D. in Mathematics from Washington University in St. Louis in 2025, advised by [Dr. Ari Stern](https://www.math.wustl.edu/~astern/). My doctoral work studied structure-preserving numerical integration and the stability of machine learning models, particularly through backward error analysis and functional equivariance. This foundation now informs my work on explainable AI for complex geophysical systems.
 
+My current research lies at the intersection of machine learning, numerical analysis, and climate science. I am particularly interested in designing hybrid physics–AI models and interpretable emulators that improve our understanding of nonlinear ocean processes, extreme events, and long-term climate behavior.
 
-**Publications**
-S. Suri and M. Sonnwald (2026), Trusting Machine Learning with Physics: A Fidelity Verification Framework for Neural Networks, *In Review*. 
+**Research Interests:** Interpretable AI, ocean and climate dynamics, stability of neural networks, numerical analysis, hybrid physics–machine learning models.
 
-A. Stern, and S. Suri (2023), Functional Equivariance and Modified Vector Fields, *Journal of Computational Dynamics*,
-11 (4), 409-426.
+My work aims to make machine learning models for climate science more transparent, reliable, and actionable for scientific discovery and decision-making.
 
-D. Rim, S. Suri, S. Hong, K. Lee, R. J. LeVeque (2023), A Stability Analysis of Neural Networks and Its Application
-to Tsunami Early Warning. *Journal of Geophysical Research: Machine Learning and Computation*, 1 (4).
+<br>
 
-M. Chamberland, S. Jing, S. Suri (2020), A Generalization of the One-Seventh Ellipse, *Mathematics Magazine*,
-93:4, 271-275.
+📄 [Download my CV](cv.pdf)  
+📧 [sansuri@ucdavis.edu](mailto:sansuri@ucdavis.edu)
 
-**Recent Conference Attendance and Talks**
-Institute for Pure and Applied Mathematics (IPAM) at UCLA: Poster on 'Trusting Machine Learning with Physics' for Mathematics and Machine Learning for Earth System Simulation
+<br clear="all"/>
 
-ICERM Hot Topics Workshop: From Modeling to Learning with HPC
+---
 
-Missouri S&T Applied Math and Statistics Student Seminar: Invited talk on 'Functional Equivariance and Backward Error Analysis'
+## Publications
 
-SciCADE 2024: Invited talk in minisymposium 'Recent Advances in Structure Preserving Numerical Methods'
+S. Suri and M. Sonnewald (2026), *Trusting Machine Learning with Physics: A Fidelity Verification Framework for Neural Networks*, In Review.
 
-WashU Graduate Research Symposium 2024: Second place in poster presentation on 'A Stability Analysis of Neural Networks and Applications to Tsunami Early Warning'
+A. Stern and S. Suri (2023), *Functional Equivariance and Modified Vector Fields*, *Journal of Computational Dynamics*, 11(4), 409–426.
 
-Midwest Numerical Analysis Day 2024: Invited talk in minisymposium 'Numerical Time Integration'
-     
+D. Rim, S. Suri, S. Hong, K. Lee, R. J. LeVeque (2023), *A Stability Analysis of Neural Networks and Its Application to Tsunami Early Warning*, *Journal of Geophysical Research: Machine Learning and Computation*, 1(4).
+
+M. Chamberland, S. Jing, S. Suri (2020), *A Generalization of the One-Seventh Ellipse*, *Mathematics Magazine*, 93(4), 271–275.
+
+---
+
+## Selected Talks and Presentations
+
+- Poster: *Trusting Machine Learning with Physics*, Institute for Pure and Applied Mathematics (IPAM), UCLA  
+- Invited Talk: *Functional Equivariance and Backward Error Analysis*, Missouri S&T Applied Mathematics Seminar  
+- Invited Talk: SciCADE 2024, Minisymposium on Structure-Preserving Numerical Methods  
+- Invited Talk: Midwest Numerical Analysis Day 2024  
+- Workshop Participant: ICERM Hot Topics Workshop on Modeling and Learning with HPC  
+- Poster Award (2nd Place): WashU Graduate Research Symposium (2024)
+
+---
+
+## News
+
+- **2026:** Submitted work on machine learning fidelity and interpretability in physical systems 
+- **2025:** Started Postdoctoral position at UC Davis in Computational Climate and Ocean Group
+- **2024:** Featured in WashU Ampersand magazine for my research: [Math for a Changing World](https://artsci.washu.edu/ampersand/math-changing-world)
+- **2024:** Delivered invited talks at SciCADE, Midwest Numerical Analysis Day and Missouri S&T Applied Mathematics Seminar
+  
