@@ -20,7 +20,7 @@ My work aims to make machine learning models for climate science more transparen
 
 <br>
 
-📄 [Download my CV](cv.pdf)  
+📄 [Download my CV](academic_cv-3.pdf)  
 📧 [sansuri@ucdavis.edu](mailto:sansuri@ucdavis.edu)
 
 <br clear="all"/>
