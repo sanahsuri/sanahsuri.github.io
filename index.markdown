@@ -12,9 +12,11 @@ I am a Postdoctoral Scholar in the [Computational Climate and Ocean Group](https
 
 I received my Ph.D. in Mathematics from Washington University in St. Louis in 2025, advised by [Dr. Ari Stern](https://www.math.wustl.edu/~astern/). My doctoral work studied structure-preserving numerical integration and the stability of machine learning models. This foundation now informs my work on explainable AI for complex systems.
 
-My current research lies at the intersection of machine learning and ocean science. I am particularly interested in interpretable AI emulators that improve our understanding of nonlinear ocean processes, extreme events, and long-term climate behavior.
+My current research lies at the intersection of machine learning and ocean science. I am particularly interested in interpretable AI emulators that improve our understanding of nonlinear ocean processes, extreme events, and long-term climate behavior. I love collaborating with other people so pleas
 
 **Research Interests:** Interpretable AI, ocean and climate dynamics, stability of neural networks, numerical analysis, hybrid physics–machine learning models.
+
+I enjoy collaborating across disciplines and welcome opportunities to connect! I received my undergraduate degree from Grinnell College and am always happy to connect with current students or alumni.
 
 <br>
 
