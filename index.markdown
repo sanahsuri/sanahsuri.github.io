@@ -30,7 +30,9 @@ I enjoy collaborating across disciplines and welcome opportunities to connect! I
 
 ## Publications
 
-S. Suri and M. Sonnewald (2026), *Trusting Machine Learning with Physics: A Fidelity Verification Framework for Neural Networks*, In Review.
+S. Suri, K. Ringel, M. Sonnewald (2026), *OceanCBM: A Concept Bottleneck Model for Mechanistic Interpretability in Ocean Physics*, Submitted. 
+
+S. Suri and M. Sonnewald (2026), *Trusting Machine Learning with Physics: A Fidelity Verification Framework for Neural Networks*, In Review. 
 
 S. Suri (2025), *Functional Equivariance and Backward Error Analysis*, Ph.D. Thesis. 
 
