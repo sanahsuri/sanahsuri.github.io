@@ -20,7 +20,7 @@ I enjoy collaborating across disciplines and welcome opportunities to connect! I
 
 <br>
 
-📄 [Download my CV](academic_cv-3.pdf)  
+📄 [Download my CV](academic_cv-4.pdf)  
 📧 [sansuri@ucdavis.edu](mailto:sansuri@ucdavis.edu)
 
 <br clear="all"/>
