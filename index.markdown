@@ -8,7 +8,7 @@ layout: home
 
 ## About
 
-I am a Postdoctoral Scholar in the [Computational Climate and Ocean Group](https://compclimate.github.io/ccog.github.io/) at UC Davis, working with [Dr. Maike Sonnewald](https://msonnewald.com). My research focuses on developing interpretable and trustworthy machine learning methods to understand and emulate ocean systems across scales.
+I am a Moore Foundation Postdoctoral Fellow in the [Computational Climate and Ocean Group](https://compclimate.github.io/ccog.github.io/) at UC Davis, working with [Dr. Maike Sonnewald](https://msonnewald.com). My research focuses on developing interpretable and trustworthy machine learning methods to understand and emulate ocean systems across scales.
 
 I received my Ph.D. in Mathematics from Washington University in St. Louis in 2025, advised by [Dr. Ari Stern](https://www.math.wustl.edu/~astern/). My doctoral work studied structure-preserving numerical integration and the stability of machine learning models. This foundation now informs my work on explainable AI for complex systems.
 
@@ -20,7 +20,7 @@ I enjoy collaborating across disciplines and welcome opportunities to connect! I
 
 <br>
 
-📄 [Download my CV](academic_cv-4.pdf)  
+📄 [Download my CV](academic_cv.pdf)  
 📧 [sansuri@ucdavis.edu](mailto:sansuri@ucdavis.edu)
 
 <br clear="all"/>
@@ -30,9 +30,9 @@ I enjoy collaborating across disciplines and welcome opportunities to connect! I
 
 ## Publications
 
-S. Suri, K. Ringel, M. Sonnewald (2026), *OceanCBM: A Concept Bottleneck Model for Mechanistic Interpretability in Ocean Physics*, Submitted. 
+S. Suri, K. Ringel, M. Sonnewald (2026), *OceanCBM: A Concept Bottleneck Model for Mechanistic Interpretability in Ocean Physics*, Accepted as a NeurIPS Spotlight Paper. 
 
-S. Suri and M. Sonnewald (2026), *Trusting Machine Learning with Physics: A Fidelity Verification Framework for Neural Networks*, In Review. 
+S. Suri and M. Sonnewald (2026), *Trusting Machine Learning with Physics: A Fidelity Verification Framework for Neural Networks*, In Press at Journal of Geophysical Research: Machine Learning and Computation. 
 
 S. Suri (2025), *Functional Equivariance and Backward Error Analysis*, Ph.D. Thesis. 
 
